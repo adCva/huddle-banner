@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/huddle-banner/static/css/main.af7c2397.chunk.css",
+    "main.js": "/huddle-banner/static/js/main.20c84ce5.chunk.js",
+    "main.js.map": "/huddle-banner/static/js/main.20c84ce5.chunk.js.map",
+    "runtime-main.js": "/huddle-banner/static/js/runtime-main.43ed5c71.js",
+    "runtime-main.js.map": "/huddle-banner/static/js/runtime-main.43ed5c71.js.map",
+    "static/js/2.00e6ba3a.chunk.js": "/huddle-banner/static/js/2.00e6ba3a.chunk.js",
+    "static/js/2.00e6ba3a.chunk.js.map": "/huddle-banner/static/js/2.00e6ba3a.chunk.js.map",
+    "index.html": "/huddle-banner/index.html",
+    "static/css/main.af7c2397.chunk.css.map": "/huddle-banner/static/css/main.af7c2397.chunk.css.map",
+    "static/js/2.00e6ba3a.chunk.js.LICENSE.txt": "/huddle-banner/static/js/2.00e6ba3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43ed5c71.js",
+    "static/js/2.00e6ba3a.chunk.js",
+    "static/css/main.af7c2397.chunk.css",
+    "static/js/main.20c84ce5.chunk.js"
+  ]
+}
